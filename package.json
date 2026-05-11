@@ -2,7 +2,7 @@
   "name": "black-mono",
   "displayName": "Black Mono",
   "description": "A minimal monochrome VS Code theme. All grayscale, no distractions.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "MichaTarasiuk",
   "repository": {
     "type": "git",
