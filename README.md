@@ -2,12 +2,6 @@
 
 A minimal monochrome VS Code theme. All grayscale, no distractions.
 
-## Preview
-
-See how code looks with Black Mono:
-
-![Screenshot of code using Black Mono theme](./code.png)
-
 ## Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
